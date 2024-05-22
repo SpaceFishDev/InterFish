@@ -1,0 +1,17 @@
+
+expression:
+    bin_expr | if | call
+
+// '=' falls under operator
+bin_expr:
+    expression operator expression
+
+call:
+    keyword '(' expression ','* ')'
+// if returns true or false as well as doing it 
+// for simplicity while parsing
+if:
+    if '(' expression ')'
+
+function:
+   fn keyword '{' expression '}'

@@ -1,0 +1,15 @@
+/home/liamgatter/dev/C#/interFish/bin/Debug/net7.0/interFish
+/home/liamgatter/dev/C#/interFish/bin/Debug/net7.0/interFish.deps.json
+/home/liamgatter/dev/C#/interFish/bin/Debug/net7.0/interFish.runtimeconfig.json
+/home/liamgatter/dev/C#/interFish/bin/Debug/net7.0/interFish.dll
+/home/liamgatter/dev/C#/interFish/bin/Debug/net7.0/interFish.pdb
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.csproj.AssemblyReference.cache
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.GeneratedMSBuildEditorConfig.editorconfig
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.AssemblyInfoInputs.cache
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.AssemblyInfo.cs
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.csproj.CoreCompileInputs.cache
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.dll
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/refint/interFish.dll
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.pdb
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/interFish.genruntimeconfig.cache
+/home/liamgatter/dev/C#/interFish/obj/Debug/net7.0/ref/interFish.dll
