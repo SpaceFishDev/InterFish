@@ -1,6 +1,6 @@
 
 expression:
-    bin_expr | if | call
+    string | num | bin_expr | if | call
 
 // '=' falls under operator
 bin_expr:
@@ -15,3 +15,6 @@ if:
 
 function:
    fn keyword '{' expression '}'
+
+program: 
+    function*
